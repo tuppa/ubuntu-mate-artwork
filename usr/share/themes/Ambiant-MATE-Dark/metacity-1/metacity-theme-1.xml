@@ -17,10 +17,10 @@
   <distance name="left_titlebar_edge" value="10"/>
   <distance name="right_titlebar_edge" value="10"/>
   <distance name="button_width" value="18"/>
-  <distance name="button_height" value="20"/>
-  <distance name="title_vertical_pad" value="11"/>
+  <distance name="button_height" value="18"/>
+  <distance name="title_vertical_pad" value="9"/>
   <border name="title_border" left="2" right="2" top="0" bottom="0"/>
-  <border name="button_border" left="0" right="0" top="1" bottom="0"/>
+  <border name="button_border" left="0" right="0" top="0" bottom="0"/>
 </frame_geometry>
 
 <frame_geometry name="geometry_maximized" rounded_top_left="false" rounded_top_right="false" rounded_bottom_left="false" rounded_bottom_right="false">
@@ -30,10 +30,10 @@
   <distance name="left_titlebar_edge" value="10"/>
   <distance name="right_titlebar_edge" value="10"/>
   <distance name="button_width" value="18"/>
-  <distance name="button_height" value="20"/>
-  <distance name="title_vertical_pad" value="11"/>
+  <distance name="button_height" value="18"/>
+  <distance name="title_vertical_pad" value="9"/>
   <border name="title_border" left="2" right="2" top="0" bottom="0"/>
-  <border name="button_border" left="0" right="0" top="1" bottom="0"/>
+  <border name="button_border" left="0" right="0" top="0" bottom="0"/>
 </frame_geometry>
 
 <frame_geometry name="border" has_title="false">
